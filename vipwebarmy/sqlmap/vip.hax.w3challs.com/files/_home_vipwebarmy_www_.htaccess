@@ -1,0 +1,6 @@
+<Files VipWebArmy.php>
+AuthType Basic
+AuthName "VipWebArmy - Protected Area"
+AuthUserFile "/home/vipwebarmy/www/pass/pass.txt"
+require valid-user
+</Files>
